@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo de Aventura",
+      "descricao": "Um jogo emocionante de ação e aventura.",
+      "foto": "aventura.png",
+      "preco": 129.9
+    },
+    {
+      "id": 2,
+      "produto": "Corrida Extrema",
+      "descricao": "Desafie seus limites em pistas radicais.",
+      "foto": "corrida.png",
+      "preco": 99.9
+    },
+    {
+      "id": 3,
+      "produto": "Puzzle Master",
+      "descricao": "Desafie sua mente com quebra-cabeças envolventes.",
+      "foto": "puzzle.png",
+      "preco": 79.0
+    }
+  ]
+}
